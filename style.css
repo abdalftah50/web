@@ -1,0 +1,7 @@
+:root{color-scheme:light dark}
+body{font-family:system-ui,-apple-system,"Segoe UI",Tahoma,sans-serif;line-height:1.9;max-width:760px;margin:0 auto;padding:24px 16px;direction:rtl;text-align:right}
+h1,h2,h3{color:#5A2A86}
+@media (prefers-color-scheme:dark){h1,h2,h3{color:#B49ACB}}
+table{border-collapse:collapse;width:100%}td,th{border:1px solid #8886;padding:6px 10px}
+blockquote{border-right:4px solid #8D6AAE;margin:1em 0;padding:.2em 1em;background:#8D6AAE14}
+code{direction:ltr;unicode-bidi:embed}
